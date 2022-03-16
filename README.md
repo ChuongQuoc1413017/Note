@@ -1,3 +1,2 @@
-# Bachelor_Thesis
-
-My Bachelor's Thesis about Lie Algebra in Particle Physics (Vietnamese)
+#Lecture_Note
+Some lecture notes for theoretical physics discipline
