@@ -1,3 +1,3 @@
-# Lecture_Note
+# Lecture_Note and Poster
 
-Some lecture notes for theoretical physics discipline
+Some lecture notes and posters for theoretical physics
