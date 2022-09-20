@@ -1,3 +1,3 @@
-# Lecture_Note and Poster
+# Lecture_Note, Poster, and Other Rerouses
 
-Some lecture notes and posters for theoretical physics
+Resources for theoretical physics and mathematics
