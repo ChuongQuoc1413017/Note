@@ -448,7 +448,7 @@
 			+ Provide a link to information about the position or award
 			+ Put those at their fingertips
 
-# 6. Writing Personal Statements
+### 6. Writing Personal Statements
 + **Tips for Personal Statements**
 	1. Make it **_personal_**  
 		+ Speak from the heart
