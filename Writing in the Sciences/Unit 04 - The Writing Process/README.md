@@ -232,5 +232,5 @@
 
 <br><br>
 <br><br>
-_This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+_This note was created by [**ChuongQuoc1413017**](https://github.com/ChuongQuoc1413017/Note/tree/main/Writing%20in%20the%20Sciences)@2022_
 
