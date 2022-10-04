@@ -1,4 +1,4 @@
-## Unit 1 - Principal of effective writing
+## How to Understand Arguments
 
 ### Table of contents
 * [1. Definition of argument](#1-Definition-of-argument) 
@@ -20,10 +20,10 @@
 
 ### 2. What are arguments used for?
 + ***Persuasion:***
-	+ ***Persuading*** is making people believe or do something that they would not otherwise believe or do
+	+ Persuading is making people believe or do something that they would not otherwise believe or do
 	+ Persuasion tries to change your belief or actions (and bad reasons can do that)
 + ***Justification:***
-	+ ***Justifying*** is showing someone a reason to believe the conclusion
+	+ Justifying is showing someone a reason to believe the conclusion
 	+ Justification tries to give good reasons
 + ***Questions to Ask:***
 	+ (1) Is the arguer trying to change someone's mind?
@@ -197,4 +197,4 @@
 
 <br><br>
 <br><br>
-_This note was created by [**ChuongQuoc1413017**](https://github.com/ChuongQuoc1413017/Note/tree/main/Writing%20in%20the%20Sciences)@2022_
+_This note was created by [**ChuongQuoc1413017**](https://github.com/ChuongQuoc1413017/Note/tree/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization)@2022_
