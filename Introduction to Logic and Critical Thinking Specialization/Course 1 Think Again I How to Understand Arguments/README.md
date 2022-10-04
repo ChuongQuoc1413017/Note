@@ -52,10 +52,9 @@
 
 ### 5. Standard form and problems with arguments
 + Standard form:
-
 	| (1) Premise               |
-	| (2) Premise               |
 	|---------------------------|
+	| (2) Premise               |
 	| (3) Conclusion (from 1-2) |
 + Problem: Skeptical Regress 
 	+ ***Skeptical Regress***, some suggested solutions ***(but don't work)***:
