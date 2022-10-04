@@ -139,7 +139,7 @@
 ### 7. Validity and Soundness
 + ***Validity***
 	+ Standards for evaluating arguments
-	+ An argument is ***VALID*** if and only iff
+	+ An argument is ***VALID*** if and only if
 		+ It is not possible that both all of its premises are true and its conclusion is false
 	+ If you ***CAN*** tell a coherent story in which the ***premises are true*** and the ***conclusion is false***, then the argument is ***INVALID***
 	+ If you ***CANNOT*** tell a coherent story in which the ***premises are true*** and the ***conclusion is false***, then the argument is ***VALID***
