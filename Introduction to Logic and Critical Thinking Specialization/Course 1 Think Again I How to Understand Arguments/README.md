@@ -99,7 +99,7 @@
 			+ Know -> believe -> tend to believe -> inclined to believe
 + ***Discounting***
 	+ is citing a possible criticism in order to reject it or counter it
-	+ But, although, evenif, even though, whereas, nevertheless, nonetheless, still
+	+ But, although, even if, even though, whereas, nevertheless, nonetheless, still
 	+ ***But*** indicates that the sentence after it is more important than the sentence before it
 	+ ***Functions of discounting terms***
 		+ They assert two claims
