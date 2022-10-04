@@ -51,7 +51,7 @@
 	+ ***Reason markers:*** because, for, as, for the reason that, and the reason why, etc
 
 ### 5. Standard form and problems with arguments
-+ Standard form
++ Standard form:
 	| (1) Premise               |
 	| (2) Premise               |
 	|---------------------------|
@@ -87,7 +87,7 @@
 		+ No one would question the claim anyway
 		+ The authority is not trustworthy
 		+ When you are able to easily give the full explanation
-***Guarding***
++ ***Guarding***
 	+ involves making your premises weaker so that it is harder to object to them
 	+ ***Kind of guarding***
 		+ ***Extent***
@@ -97,7 +97,7 @@
 			+ It's certain -> It's probable/likely -> There's a chance -> He might have
 		+ ***Mental***
 			+ Know -> believe -> tend to believe -> inclined to believe
-***Discounting***
++ ***Discounting***
 	+ is citing a possible criticism in order to reject it or counter it
 	+ But, although, evenif, even though, whereas, nevertheless, nonetheless, still
 	+ ***But*** indicates that the sentence after it is more important than the sentence before it
@@ -110,7 +110,7 @@
 		+ The arguer discounts easy objections to make people forget to think about the more difficult objections
 		+ Arguers can combine the trick of discounting straw people with misuses of guarding and assuring
 	+ Think about the objections that the arguer is not considering
-***Evaluation***
++ ***Evaluation***
 	+ When we call something "good", we don't specify what the standards are. This makes our claim more defensible since our standards cannot be questioned if they are not presented
 	+ ***Defferent levels of evaluation***
 		+ ***General:*** good/bad, ought/ought not, should/should not, right/wrong
@@ -127,7 +127,7 @@
 	+ ***Slanting*** is using evaluative terms without having reasons for the evaluation
 
 ### 6. Close Analysis
-Take a passage and mark the words in that passage that play those roles
++ Take a passage and mark the words in that passage that play those roles
 	+ Reason marker = R
 	+ Conclusion marker = C
 	+ Assuring term = A
@@ -137,7 +137,7 @@ Take a passage and mark the words in that passage that play those roles
 	+ Negative evaluative term = E-
 
 ### 7. Validity and Soundness
-***Validity***
++ ***Validity***
 	+ Standards for evaluating arguments
 	+ An argument is ***VALID*** if and only iff
 		+ It is not possible that both all of its premises are true and its conclusion is false
@@ -153,7 +153,7 @@ Take a passage and mark the words in that passage that play those roles
 		| True Premises  | Some valid, some not | ***ALL INVALID***    |
 		| False Premises | Some valid, some not | Some valid, some not |
 	+ ***EVERY*** argument with true premises and a false conclusion is invalid
-***Soundness***
++ ***Soundness***
 	+ In a sound argument, the conclusion ***must be true***
 	+ An argument is ***SOUND*** if and only if
 		+ 1. all of its premises are true, and
@@ -172,7 +172,7 @@ Take a passage and mark the words in that passage that play those roles
 	+ If you know an argument is invalid, then you also know it is unsound
 
 ### 8. Reconstruction
-The goal of reconstruction is to put an argument in a form in which we can easily and accurately assess it in as fair a manner as possible
++ The goal of reconstruction is to put an argument in a form in which we can easily and accurately assess it in as fair a manner as possible
 	+ ***Stage I: Close analysis***
 		+ Step 1: Do a close analysis
 	+ ***Stage II: Get down to basics***
