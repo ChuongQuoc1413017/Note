@@ -52,6 +52,7 @@
 
 ### 5. Standard form and problems with arguments
 + Standard form:
+
 	| (1) Premise               |
 	| (2) Premise               |
 	|---------------------------|
