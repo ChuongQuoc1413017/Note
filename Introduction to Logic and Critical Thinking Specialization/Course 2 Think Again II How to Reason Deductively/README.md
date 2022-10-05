@@ -173,10 +173,10 @@
 		+ We can use Venn Diagrams to see that conversion inferences are valid for E and I propositions, but not A or O propositions
 			| Premises           | Conclusion         | Conversion |
 			|--------------------|--------------------|------------|
-			| All Fs are Gs      | All Gs are Fs      |            |
+			| All Fs are Gs      | All Gs are Fs      | Invalid    |
 			| No Fs are Gs       | No Gs are Fs       | Valid      |
 			| Some Fs are Gs     | Some Gs are Fs     | Valid      |
-			| Some Fs are not Gs | Some Gs are not Fs |            |	
+			| Some Fs are not Gs | Some Gs are not Fs | Invalid    |	
 
 ### 6. Syllogisms
 + What is a ****syllogism***?
@@ -189,10 +189,28 @@
 	+ Some of Mary's possessions are Ferrari cars => I form
 	+ Two arguments are equivalent
 	+ Can use the Venn Diagram
++ Other ways of rxpressing A, E, I, or O propositions
+	+ Not all Fs are Gs = Some Fs are not Gs
+	+ All Fs are not Gs = No Fs are Gs
+	+ Some Fs are both Gs and Hs
 
+<kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/not_all.png" /></kbd>
+
+<kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/all_not.png" /></kbd>
+
+<kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/some_both.png" /></kbd>
 
 ### 7. Representing Information
 
++ We can use the truth-table alone to check the validity of arguments
++ We can also use the Venn Diagram alone to check the validity of arguments
++ There are different ways of representing information
+	+ Use different languages ***(sentential representation)***
+	+ Use the truth-table or Venn Diagram ***(non-sentential representation)***
++ The point of using a truth-table
+	+ The truth-table representation of the information - unlike the sentential representations - allows us to tell which deductive inferences involving that information are valid
++ The point of using a Venn Diagram
+	+ The Venn diagram representation of the information - unlike the sentential representations - allows us to tell which deductive inferences involving that information are valid
 
 ***
 
