@@ -152,13 +152,13 @@
 	+ O: Some Fs are not Gs
 + Each kind of quanfifiers has its own Venn Diagram
 
-<kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/all.png" /></kbd>
+<kbd><img src="image/all.png" /></kbd>
 
-<kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/not.png" /></kbd>
+<kbd><img src="image/not.png" /></kbd>
 
 <kbd><img src="image/some.png" /></kbd>
 
-<kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/some_not.png" /></kbd>
+<kbd><img src="image/some_not.png" /></kbd>
 
 + What is an Immediate Categorical Inference
 	+ It is an inference with just ***1 premise***, in which ***both the premise and the conclusion*** are of the form A, E, I, or O
@@ -194,11 +194,11 @@
 	+ All Fs are not Gs = No Fs are Gs
 	+ Some Fs are both Gs and Hs
 
-<kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/not_all.png" /></kbd>
+<kbd><img src="image/not_all.png" /></kbd>
 
-<kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/all_not.png" /></kbd>
+<kbd><img src="image/all_not.png" /></kbd>
 
-<kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/some_both.png" /></kbd>
+<kbd><img src="some_both.png" /></kbd>
 
 ### 7. Representing Information
 
