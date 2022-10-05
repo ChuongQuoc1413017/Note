@@ -8,7 +8,7 @@
 * [5. Standard form and problems with arguments](#5-Standard-form-and-problems-with-arguments)
 * [6. Close Analysis](#6-Close-Analysis)
 * [7. Validity and Soundness](#7-Validity-and-Soundness)
-* [8. Reconstruction](#8-Reconstruction])
+* [8. Reconstruction](#8-Reconstruction)
 
 
 ### 1. Definition of argument:
