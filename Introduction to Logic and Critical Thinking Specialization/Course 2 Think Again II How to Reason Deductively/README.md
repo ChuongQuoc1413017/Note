@@ -5,6 +5,9 @@
 * [2. Deductive Logic](#2-Deductive-Logic)
 * [3. Conjunctions and Disjunctions](#3-Conjunctions-and-Disjunctions)
 * [4. Conditionals](#4-Conditionals)
+* [5. Categorical Logic](#5-Categorical-Logic)
+* [6. Syllogisms](#6-Syllogisms)
+* [7. Representing Information](#7-Representing-Information)
 
 
 ### 1. Definition of deductive argument:
@@ -129,7 +132,7 @@
 		| False | True  | True         |
 		| False | False | True         |
 + "if ..., then ..." does not always express a conditional
-+ ***BiconditionalS***
++ ***Biconditional***
 	+ "If ... and only if ..."
 	+ P = Q means (P -> Q) & (Q -> P)
 	+ Truth-table for the biconditional
@@ -139,6 +142,57 @@
 		| True  | False | False |
 		| False | True  | False |
 		| False | False | True  |
+
+### 5. Categorical Logic
++ Use Venn Diagram to check the validity
++ Different quantifiers
+	+ A: All Fs are Gs
+	+ E: No Fs are Gs
+	+ I: Some Fs are Gs
+	+ O: Some Fs are not Gs
++ Each kind of quanfifiers has its own Venn Diagram
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science/blob/master/Certificate/Certificate.jpg" /></kbd>
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science/blob/master/Certificate/Certificate.jpg" /></kbd>
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science/blob/master/Certificate/Certificate.jpg" /></kbd>
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science/blob/master/Certificate/Certificate.jpg" /></kbd>
+
++ What is an Immediate Categorical Inference
+	+ It is an inference with just ***1 premise***, in which ***both the premise and the conclusion*** are of the form A, E, I, or O
++ Subject term and the predicate term
+	+ In each proposition of the form A, E, I, or O, there is a subject term and a predicate term
+	+ The ***subject term*** is the one modified by the quantifier, the one that we've been schematizing with "F". The other term is the ***predicate term***
++ ***Conversion***
+	+ The most common example of Immediate Categorical Inference is what's called ***"Conversion"***, an inference in which the conclusion switch the subject and predicate term that occur in the premise, e.g.
+		+ Premise: "No Fs are Gs", then Conclusion: "No Gs are Fs"
+		+ Premise: "All Fs are Gs", then Conclusion: "All Gs are Fs"
+	+ Which conversion inferences are valid?
+		+ We can use Venn Diagrams to see that conversion inferences are valid for E and I propositions, but not A or O propositions
+		|                    |                    | Conversion |
+		|--------------------|--------------------|------------|
+		| All Fs are Gs      | All Gs are Fs      |            |
+		| No Fs are Gs       | No Gs are Fs       | Valid      |
+		| Some Fs are Gs     | Some Gs are Fs     | Valid      |
+		| Some Fs are not Gs | Some Gs are not Fs |            |	
+
+### 6. Syllogisms
++ What is a ****syllogism***?
+	+ A syllogism is an argument with 2 premises and a conclusion, where all 3 propositions are of the A, E, I, or O form
+	+ The ***subject term*** of the ***conclusion*** is called the ***subject term of the syllogism***, and one of the premises must also contain that subject term: that premise is the ***"minor premise"***
+	+ The ***predicate term*** of the ***conclusion*** is called the ***predicate term of the syllogism***, and one of the premises must also contain the predicate term: that premise is ***the "major premise"***
++ Use Venn Diagram to check the validity of syllogisms
++ How language can mislead
+	+ Mary owns a Ferrari => not to involve any categories
+	+ Some of Mary's possessions are Ferrari cars => I form
+	+ Two arguments are equivalent
+	+ Can use the Venn Diagram
+
+
+### 7. Representing Information
+
 
 ***
 
