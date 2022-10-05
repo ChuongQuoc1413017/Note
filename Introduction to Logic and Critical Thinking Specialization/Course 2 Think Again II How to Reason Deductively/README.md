@@ -171,12 +171,13 @@
 		+ Premise: "All Fs are Gs", then Conclusion: "All Gs are Fs"
 	+ Which conversion inferences are valid?
 		+ We can use Venn Diagrams to see that conversion inferences are valid for E and I propositions, but not A or O propositions
-	| Original           | Switched           | Conversion |
-	|--------------------|--------------------|------------|
-	| All Fs are Gs      | All Gs are Fs      |            |
-	| No Fs are Gs       | No Gs are Fs       | Valid      |
-	| Some Fs are Gs     | Some Gs are Fs     | Valid      |
-	| Some Fs are not Gs | Some Gs are not Fs |            |	
+	
+| Original           | Switched           | Conversion |
+|--------------------|--------------------|------------|
+| All Fs are Gs      | All Gs are Fs      |            |
+| No Fs are Gs       | No Gs are Fs       | Valid      |
+| Some Fs are Gs     | Some Gs are Fs     | Valid      |
+| Some Fs are not Gs | Some Gs are not Fs |            |	
 
 ### 6. Syllogisms
 + What is a ****syllogism***?
