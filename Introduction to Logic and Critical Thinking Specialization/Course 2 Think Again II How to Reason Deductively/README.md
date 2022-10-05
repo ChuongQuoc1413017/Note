@@ -198,7 +198,7 @@
 
 <kbd><img src="image/all_not.png" /></kbd>
 
-<kbd><img src="some_both.png" /></kbd>
+<kbd><img src="image/some_both.png" /></kbd>
 
 ### 7. Representing Information
 
