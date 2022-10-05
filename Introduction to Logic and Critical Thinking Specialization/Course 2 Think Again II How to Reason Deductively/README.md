@@ -189,7 +189,7 @@
 	+ Some of Mary's possessions are Ferrari cars => I form
 	+ Two arguments are equivalent
 	+ Can use the Venn Diagram
-+ Other ways of rxpressing A, E, I, or O propositions
++ Other ways of Expressing A, E, I, or O propositions
 	+ Not all Fs are Gs = Some Fs are not Gs
 	+ All Fs are not Gs = No Fs are Gs
 	+ Some Fs are both Gs and Hs
