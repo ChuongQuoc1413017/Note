@@ -156,7 +156,7 @@
 
 <kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/not.png" /></kbd>
 
-<kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/some.png" /></kbd>
+<kbd><img src="image/some.png" /></kbd>
 
 <kbd><img src="https://github.com/ChuongQuoc1413017/Note/blob/main/Introduction%20to%20Logic%20and%20Critical%20Thinking%20Specialization/Course%202%20Think%20Again%20II%20How%20to%20Reason%20Deductively/image/some_not.png" /></kbd>
 
