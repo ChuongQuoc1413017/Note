@@ -1,11 +1,10 @@
 # Introduction to Discrete Mathematics for Computer Science
 
-**[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics?)** (has been removed on Coursera)
-+ **[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)**
-+ **[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics)**
-+ **[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics)**
-+ **[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics)** (has been removed on Coursera)
-+ **[Delivery Problem](https://www.coursera.org/learn/delivery-problem)**
+**[Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke)** 
++ **[Think Again I: How to Understand Arguments](https://www.coursera.org/learn/understanding-arguments?specialization=logic-critical-thinking-duke)**
++ **[Think Again II: How to Reason Deductively](https://www.coursera.org/learn/deductive-reasoning?specialization=logic-critical-thinking-duke)**
++ **[Think Again III: How to Reason Inductively](https://www.coursera.org/learn/inductive-reasoning?specialization=logic-critical-thinking-duke)**
++ **[Think Again IV: How to Avoid Fallacies](https://www.coursera.org/learn/logical-fallacies?specialization=logic-critical-thinking-duke)**
 
 
-**Instructors** : `Alexander S. Kulikov`, `Michael Levin` and `Vladimir Podolskii`
+**Instructors** : `Dr. Walter Sinnott-Armstrong` and `Dr. Ram Neta`
