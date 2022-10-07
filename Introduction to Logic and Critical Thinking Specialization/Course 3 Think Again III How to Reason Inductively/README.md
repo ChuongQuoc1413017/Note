@@ -163,7 +163,7 @@
 		+ ***1*** - We have not found any case where X is ***absent*** and Y is ***present***
 		+ ***2*** - We have tested a wide variety of cases, including cases where X is ***absent*** and cases where Y is ***present***
 		+ ***3*** - If there are any other features that are never ***absent*** where Y is ***present***, then we have tested cases where those other features are ***present*** but X is ***absent***
-		+ ***4*** - We have tested enough cases of various kinds that are likely to include a case where X is ***present*** and Y is ***present*** ***IF*** there is any such case
+		+ ***4*** - We have tested enough cases of various kinds that are likely to include a case where X is ***absent*** and Y is ***present*** ***IF*** there is any such case
 + ***Complex conditions***
 	+ ***Negative test for sufficient condition***
 		+ X is ***NOT*** a ***sufficient*** condition of Y if there is any case where X is ***present*** and Y is ***absent***
