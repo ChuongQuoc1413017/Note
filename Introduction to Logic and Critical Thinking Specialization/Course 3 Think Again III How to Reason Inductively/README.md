@@ -6,7 +6,7 @@
 * [3. Explanations and Analogies](#3-Explanations-and-Analogies)
 * [4. What Is a Cause?](#4-What-Is-a-Cause?)
 * [5. Necessary and Sufficient Conditions](#5-Necessary-and-Sufficient-Conditions)
-* [6. Causal Confustons](#6-Causal-Confusions)
+* [6. Causal Confusions](#6-Causal-Confusions)
 * [7. Probability](#7-Probability])
 
 
@@ -136,7 +136,7 @@
 	+ F is a ***NECESSARY*** condition for G = ***IN NORMAL CIRCUMSTANCES***
 		+ ***For events:*** Whenever an event F does not happen, an event G also does not happen
 		+ ***For features:*** Anything that does not have feature F also does not have feature G
-*** Kinds of conditions***
++ *** Kinds of conditions***
 	+ ***Conceptual***
 		+ Being a whale is ***sufficient*** for being mammal
 		+ Being a whale is ***necessary*** for being a sperm whale
@@ -145,34 +145,34 @@
 		+ Strikiing this match on a rough surface is ***necessary*** for lighting it
 	+ ***Moral***
 		+ Torturing for fun is ***sufficient*** for doing wrong
-		+ Dothing something wrong is ***necessary*** for being punishable
+		+ Doing something wrong is ***necessary*** for being punishable
 
 ### 5. Necessary and Sufficient Conditions
 + ***Negative sufficient condition test***
-	+ X is ***NOT*** a ***sufficient*** condition of Y if there is any case where X is present and Y is absent
+	+ X is ***NOT*** a ***sufficient*** condition of Y if there is any case where X is ***present*** and Y is ***absent***
 + ***Positive sufficient condition test***
 	+ We have a good reason to believe X ***IS*** a ***sufficient*** condition of Y if ***all*** of the following conditions are met
-		+ ***1*** - We have not found any case where X is present and Y is absent
-		+ ***2*** - We have tested a wide variety of cases, including cases where X is present and cases where Y is absent
-		+ ***3*** - If there are any other features that are never present where Y is absent, then we have tested cases where those other features are absent but X is present
-		+ ***4*** - We have tested enough cases of various kinds that are likely to include a case where X is present and Y is absent ***IF*** there is any such case
+		+ ***1*** - We have not found any case where X is ***present*** and Y is ***absent***
+		+ ***2*** - We have tested a wide variety of cases, including cases where X is ***present*** and cases where Y is ***absent***
+		+ ***3*** - If there are any other features that are never ***present*** where Y is ***absent***, then we have tested cases where those other features are absent but X is ***present***
+		+ ***4*** - We have tested enough cases of various kinds that are likely to include a case where X is ***present*** and Y is ***absent*** ***IF*** there is any such case
 + ***Negative necessary condition test***
-	+ X is ***NOT*** a ***necessary*** condition of Y if there is any case where X is absent and Y is present
+	+ X is ***NOT*** a ***necessary*** condition of Y if there is any case where X is ***absent*** and Y is ***present***
 + ***Positive necessary condition test***
 	+ We have a good reason to believe X ***IS*** a ***necessary*** condition of Y if ***all*** of the following conditions are met
-		+ ***1*** - We have not found any case where X is absent and Y is present
-		+ ***2*** - We have tested a wide variety of cases, including cases where X is absent and cases where Y is present
-		+ ***3*** - If there are any other features that are never absent where Y is present, then we have tested cases where those other features are present but X is absent
-		+ ***4*** - We have tested enough cases of various kinds that are likely to include a case where X is present and Y is present ***IF*** there is any such case
+		+ ***1*** - We have not found any case where X is ***absent*** and Y is ***present***
+		+ ***2*** - We have tested a wide variety of cases, including cases where X is ***absent*** and cases where Y is ***present***
+		+ ***3*** - If there are any other features that are never ***absent*** where Y is ***present***, then we have tested cases where those other features are ***present*** but X is ***absent***
+		+ ***4*** - We have tested enough cases of various kinds that are likely to include a case where X is ***present*** and Y is ***present*** ***IF*** there is any such case
 + ***Complex conditions***
 	+ ***Negative test for sufficient condition***
-		+ X is ***NOT*** a ***sufficient*** condition of Y if there is any case where X is present and Y is absent
+		+ X is ***NOT*** a ***sufficient*** condition of Y if there is any case where X is ***present*** and Y is ***absent***
 	+ ***Negative test for conjuntive sufficient condition***
-		+ (W & X) is ***NOT*** a ***sufficient*** condition of Y if there is any case where (W & X) is present and Y is absent
+		+ (W & X) is ***NOT*** a ***sufficient*** condition of Y if there is any case where (W & X) is ***present*** and Y is ***absent***
 	+ ***Negative test for necessary condition***
-		+ X is ***NOT*** a ***necessary*** condition of Y if there is any case where X is absent and Y is present
+		+ X is ***NOT*** a ***necessary*** condition of Y if there is any case where X is ***absent*** and Y is ***present***
 	+ ***Negative test for conjuntive necessary condition***
-		+ (W & X) is ***NOT*** a ***necessary*** condition of Y if there is any case where (W & X) is absent and Y is present
+		+ (W & X) is ***NOT*** a ***necessary*** condition of Y if there is any case where (W & X) is ***absent*** and Y is ***present***
 ### 6. Causal Confusions
 + ***Correlations***
 	+ X and Y are ***positive correlated*** when
@@ -243,7 +243,6 @@
 + Overall value
 	+ Actual overall value (or utility) of an act = all of the good and bad effects that the act actually has
 	+ Expected overall value (or expected utility) of an act = all of the good and bad effects of the act times the probability of each effect
-		
 
 ***
 
