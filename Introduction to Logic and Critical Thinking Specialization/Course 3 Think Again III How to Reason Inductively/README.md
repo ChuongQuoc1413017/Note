@@ -106,7 +106,7 @@
 		+ The holiday hypothesis is ***falsifiable*** because the two students might find out the classes were not cancelled for the holidays
 		+ The holiday hypothesis is ***not falsified*** because the two students do not actually find out that classes were not cancelled for the holiday (and for other possible ways to falsify the hypothesis)
 		+ The holiday hypothesis is ***conservative*** because it does not conflict with any prior well-established beliefs
-		+ The holiday hypothesis is ***deep* because it does not depend on any assumptions that need but lack independent explanation
+		+ The holiday hypothesis is ***deep*** because it does not depend on any assumptions that need but lack independent explanation
 		+ >>> The holiday hypothesis, plus accepted facts and principles, gives a strong explanation of why nobody else is in the room
 + Arguments from ***Analogy***
 	+ Premises:
@@ -136,7 +136,7 @@
 	+ F is a ***NECESSARY*** condition for G = ***IN NORMAL CIRCUMSTANCES***
 		+ ***For events:*** Whenever an event F does not happen, an event G also does not happen
 		+ ***For features:*** Anything that does not have feature F also does not have feature G
-+ *** Kinds of conditions***
++ ***Kinds of conditions***
 	+ ***Conceptual***
 		+ Being a whale is ***sufficient*** for being mammal
 		+ Being a whale is ***necessary*** for being a sperm whale
@@ -154,7 +154,7 @@
 	+ We have a good reason to believe X ***IS*** a ***sufficient*** condition of Y if ***all*** of the following conditions are met
 		+ ***1*** - We have not found any case where X is ***present*** and Y is ***absent***
 		+ ***2*** - We have tested a wide variety of cases, including cases where X is ***present*** and cases where Y is ***absent***
-		+ ***3*** - If there are any other features that are never ***present*** where Y is ***absent***, then we have tested cases where those other features are absent but X is ***present***
+		+ ***3*** - If there are any other features that are never ***present*** where Y is ***absent***, then we have tested cases where those other features are ***absent*** but X is ***present***
 		+ ***4*** - We have tested enough cases of various kinds that are likely to include a case where X is ***present*** and Y is ***absent*** ***IF*** there is any such case
 + ***Negative necessary condition test***
 	+ X is ***NOT*** a ***necessary*** condition of Y if there is any case where X is ***absent*** and Y is ***present***
