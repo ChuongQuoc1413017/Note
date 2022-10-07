@@ -6,7 +6,7 @@
 * [3. Explanations and Analogies](#3-Explanations-and-Analogies)
 * [4. What Is a Cause?](#4-What-Is-a-Cause?)
 * [5. Necessary and Sufficient Conditions](#5-Necessary-and-Sufficient-Conditions)
-* [6. Causal Confustions](#6-Causal-Confustions)
+* [6. Causal Confustons](#6-Causal-Confusions)
 * [7. Probability](#7-Probability])
 
 
@@ -173,7 +173,7 @@
 		+ X is ***NOT*** a ***necessary*** condition of Y if there is any case where X is absent and Y is present
 	+ ***Negative test for conjuntive necessary condition***
 		+ (W & X) is ***NOT*** a ***necessary*** condition of Y if there is any case where (W & X) is absent and Y is present
-### 6. Causal Confustions
+### 6. Causal Confusions
 + ***Correlations***
 	+ X and Y are ***positive correlated*** when
 		+ 1 - The degree of X increases as the degree of Y increases, and
