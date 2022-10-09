@@ -7,7 +7,7 @@
 * [4. Ad Hominem](#4-Ad-Hominem)
 * [5. Appeals to Authority](#5-Appeals-to-Authority)
 * [6. Vacuity](#6-Vacuity)
-* [7. Refutation](#7-Refutation]
+* [7. Refutation](#7-Refutation)
 
 
 ### 1. Fallacies and Paradoxes of Vagueness
