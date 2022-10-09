@@ -90,6 +90,118 @@
 		+ Six cannot be divided by two
 
 ### 4. Ad Hominem
++ Vagueness and ambiguity are actually usefull to ordinary language, so it is very easy to make fallacies of vagueness and ambiguity
++ ***Fallacy of relevance***
+	+ A fallacy of relevance is a fallacy that results when an argument's premises are not relevant to supporting its conclusion
+	+ Examples: 
+		+ Ad hominem
+		+ Appeal to authority
+		+ Appeal to popular opnion
++ ***Fallacy of vacuity***
+	+ A fallacy of vacuity is a fallacy that results when you can't be justified in accepting the premises unless you are independently justified in accepting the conclusion
+	+ Examples:
+		+ Circularity
+		+ Begging the question
+		+ Self-sealing
++ ***Ad Hominem**
+	+ An Ad Hominem argument is one that begins with premises about a particular person who is making an argument, and ends with a conclusion critical of that person's argument
+	+ Example:
+		+ Takahashi has given an eloquent presentation of evidence that normalizing US relations with Cuba will result in benefit to both nations
+		+ Takahashi owns a cigar import business, which stands to profit from normalization
+		+ ---------------------------------------------------------------------------------------------------------------------------------------
+		+ We should disregard Takahashi's presentation
+	+ Three things that a person does in giving an argument
+		+ (1) Implying that I am entitled to put forth claims about the issue
+		+ (2) Implying that certain premses support a conclusion on the issue
+		+ (3) Claiming that the conclusion is true
+	+ Three kinds of ad hominem arguments
+		+ Silencers
+		+ Dismissers
+		+ Deniers
+	+ ***Silencer***
+		+ begins with premises about a particular person who is making a point, and ends with a conclusion that we should disregard the person's argument altogether
+		+ Example:
+			+ I saw the accused murder the victim
+			+ -----------------------------------------------------------------------
+			+ Therefore, the accused is guilty of the crime with which she is charged
+	+ ***Dismisser***
+		+ begins with premises about a particular person who is making a point, and ends with a conclusion to the effect that the person's reasons are not good	
+		+ Example:
+			+ The fossil fuel industry is eager to operate under as little environmental regulation as possible
+			+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+			+ Therefore, any reasons that the members of the fossil fuel industry give in support of the conclusion that climate change is a hoax are unlikely to provide strong support that conclusion
+	+ ***Denier***
+		+ begins with premises about a particular person who is making a point, and ends with a conclusion denying the conclusion of that person's argument
+		+ Example:
+			+ Arthur says "I am an inveterate liar, and most of the time I speak falsely, including now: therefore this very statement is false"
+			+ ----------------------------------------------------------------------------------------------------------------------------------
+			+ Trthur's conclusion is not true
+
+### 5. Appeals to Authority
++ ***Appeals to Authority***
+	+ An appeal to authority is an argument that begins with premises about a particular person who is making a claim, and ends with a conclusion endorsing that person's claim
+	+ Example:
+		+ Takahashi has given an eloquent presentation of evidence that normalizing US relations with Cuba will result in benefit to both nations
+		+ Takahashi's presentation was extremely eloquent, and she was very well dressed
+		+ ---------------------------------------------------------------------------------------------------------------------------------------
+		+ We should accept Takahashi's conclusion
+	+ Three kinds of appeals to authority
+		+ Amplifiers
+		+ Supporters
+		+ Affirmers
++ ***Amplifier***
+	+ begins with premises about a particular person who is making a point, and ends with a conclusion that we should place great weight on the person's point
+	+ Example:
+		+ The speaker teaches a class on media and popular culture at Columbia University
+		+ -----------------------------------------------------------------------------------------------
+		+ Therefore, we should lend great credence to the speaker's view on the issues of which he speaks
++ ***Supporter***
+	+ begins with premises about a particular person who is making a point, and ends with a conclusion to the effect that the person's reasons are especially compelling
+	+ Example:
+		+ Warren Buffet has argued that confidence in the dollar will rise, and therefore the price of gold will soon fall
+		+ When Warren Buffet speaks, investors listen and believe
+		+ ----------------------------------------------------------------------------------------------------------------
+		+ Therefore, confidence in the dollar will probably rise
++ ***Affirmer***
+	+ begins with premises about a particular person who is making a point, and ends with a conclusion affirming that person's point
+	+ Example:
+		+ Warren Buffet has argued that confidence in the dollar will rise, and therefore the price of gold will soon fall
+		+ When Warren Buffet speaks, investors listen and believe
+		+ ----------------------------------------------------------------------------------------------------------------
+		+ Therefore, the price of gold will soon fall
++ ***Apeals to Popular Opnition***
+	+ An appeal to popular opinion is an argument that begins with premises about the popularity of a particular claim, and ends with a conclusion endorsing that claim
+	+ Example:
+		+ Many people think that the verb "to emulate" is a synonym of "to imitate"
+		+ --------------------------------------------------------------------------------------------
+		+ Therefore, at least one of the meanings of the verb "to emulate" is the same as "to imitate"
+
+### 6. Vacuity
++ A ***fallacy of vacuity*** is a fallacy that results when an argument starts by assuming what it's supposed to establish
++ Kinds of fallacies of vacuity
+	+ Circularity
+	+ Begging the question
+	+ Self-sealing
++ ***Circularity***
+	+ when the conclusion of an argument is among the premises
+	+ Example:
+		+ This argument has a premise
+		+ This argument has a conclusion
+		+ -----------------------------------------
+		+ Therefore, this argument has a conclusion
++ ***Begging the question***
+	+ when you cannot have a reason to believe an argument's the premises unless you have an independent reason to believe its conclusion
+	+ Example:
+		+ The pope says that he is infallible
+		+ Whatever the Pope says is always right
+		+ --------------------------------------
+		+ Therefore, the Pope is infallible
++ ***Self-sealers***
+	+ A self-sealer is a proposition or argument that is irrefutable because it does not claim anything, it does not rule out any conceivable situation
+	+ Example: "All human action is selfish"
+		+ Apparent counterexample: self-sacrificing heroism
+		+ Rebuttal: heroism is motivated by desire to be a hero
+	+ Most self-sealing arguments are simply arguments that contain self-sealing propositions
 
 ***
 
