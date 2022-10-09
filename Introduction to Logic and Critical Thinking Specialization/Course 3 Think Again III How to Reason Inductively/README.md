@@ -7,7 +7,7 @@
 * [4. What Is a Cause?](#4-What-Is-a-Cause?)
 * [5. Necessary and Sufficient Conditions](#5-Necessary-and-Sufficient-Conditions)
 * [6. Causal Confusions](#6-Causal-Confusions)
-* [7. Probability](#7-Probability])
+* [7. Probability](#7-Probability)
 
 
 ### 1. A New Way to Argue
