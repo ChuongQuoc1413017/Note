@@ -7,7 +7,7 @@
 * [4. Ad Hominem](#4-Ad-Hominem)
 * [5. Appeals to Authority](#5-Appeals-to-Authority)
 * [6. Vacuity](#6-Vacuity)
-* [7. Probability](#7-Probability])
+* [7. Refutation](#7-Refutation]
 
 
 ### 1. Fallacies and Paradoxes of Vagueness
@@ -202,6 +202,56 @@
 		+ Apparent counterexample: self-sacrificing heroism
 		+ Rebuttal: heroism is motivated by desire to be a hero
 	+ Most self-sealing arguments are simply arguments that contain self-sealing propositions
+
+### 7. Refutation
++ To refute an argument is to show that the argument is unsucessful
++ An argument may be unsucessful because we are not entitled to accept its premises, or it may be unsucessful because its premises do not support its conclusion
++ The varieties of refutation
+	+ To refute an argument is thus to show that its premises do not support its conclusion, or that we are not entitled do accept its premises
+	+ We can do the former using refutation by parallel reasoning
+	+ We can do the latter using counterexamples or reductio ad absurdum
++ The pitfalls of refutation
+	+ In attempting to refute an argument, we may end up attacking a straw man, or replying upon a false dichotomy
++ ***Refutation by Parallel Reasoning***
+	+ To refute an argument by parallel reasoning is to show that the argument's form is not valid or strong
+	+ What's crucial in refutation by paralel reasoning is 
+		+ You have to make sure that the parallel argument that you are using to refute the original argument, that the parallel argument has exactly the same form as the original argument
+		+ The parallel argument is clearly a fallacy
+	+ Example:
+		+ Original
+			+ If I had a higher salary, I could buy a bigger house
+			+ -----------------------------------------------------------------------------
+			+ Therefore, if everyone had a higher salary, everyone could buy a bigger house
+		+ Parallel
+			+ If one person stands up at a ball game, then she will get a better view
+			+ -------------------------------------------------------------------------------------
+			+ therefore, if everyone stands up at a ball game, then everyone will get a better view
++ ***False Dichotomy***
+	+ An argument relies upon a false dichotomy when it falsely assumes that there are only two possible situation
+	+ Example:
+		+ Either other nations are with us, or they are against us, in our war gainst terrorism
+		+ Switzerland is not with us
+		+ -------------------------------------------------------------------------------------
+		+ Switzerland is against us
++ ***Reductio Ad Absurdum***
+	+ A reductio ad absurdum is an argument that proves that a particular hypothesis is false, because it implies an absurdity
+	+ Example:
+		+ If you count long enough, you will eventually run out of numbers to count
+		+ -------------------------------------------------------------------------
+		+ Therefore, counting is an activity that cannot go on forever
++ ***Counterexamples***
+	+ A couunterexample is an example that runs counter to a generaluzation: it thereby shows that the generalization is false
+	+ Counterexamples can be used to refute arguments that contain generalizations in either their premises or their conclusions
+	+ Example:
+		+ Breaking the law is almost wrong (how about an emergency?)
+		+ Double parking is breaking the law
+		+ ----------------------------------------------------------
+		+ Therefore, double parking is almost always wrong
++ ***Attacking a Straw Man***
+	+ You attack a straw man when you misunderstood the argument or hypothesis that you are attempting to refute
+	+ Example:
+		+ Me: we should distribute condoms to teenagers around the world, in order to prevent unwanted pregnancies and all the tragic costs that result from them
+		+ You: oh, so you must want to encourage teenagers to have as much sex as possible
 
 ***
 
