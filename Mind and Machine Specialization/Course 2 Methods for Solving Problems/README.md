@@ -120,9 +120,9 @@
 	+ Print subscription to The Economist: $125
 	+ Print plus web subscription: $125
 + Some issues for discussion
-	+ Are these examples of "mistakes" in judgement?
+	+ Are these examples of "mistakes" in judgment?
 	+ If they are mistakes, why do we make them?
-	+ The issue of other agents manipulating our judgement, and the "environment of evolutionary adaptedness"
+	+ The issue of other agents manipulating our judgment, and the "environment of evolutionary adaptedness"
 
 ### 4. Heuristics and Biases
 + The conjunction effect
