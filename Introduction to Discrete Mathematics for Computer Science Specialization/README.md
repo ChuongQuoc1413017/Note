@@ -1,4 +1,4 @@
-# Introduction to Discrete Mathematics for Computer Science
+# Introduction to Discrete Mathematics for Computer Science Specialization
 
 **[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics?)** (has been removed on Coursera)
 + **[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)**, [**Verified Certificate**](https://www.coursera.org/account/accomplishments/certificate/2NE4XUPLWWRR)
