@@ -1,4 +1,4 @@
-# Introduction to Discrete Mathematics for Computer Science
+# Introduction to Logic and Critical Thinking Specialization
 
 **[Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke)**, [**Verified Certificate**]()
 + **[Think Again I: How to Understand Arguments](https://www.coursera.org/learn/understanding-arguments?specialization=logic-critical-thinking-duke)**, [**Verified Certificate**]()
