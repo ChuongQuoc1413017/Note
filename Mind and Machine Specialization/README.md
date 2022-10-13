@@ -1,10 +1,10 @@
-# Cybersecurity for Business
+# Mind and Machine Specialization
 
-**[Cybersecurity for Business Specialization](https://www.coursera.org/specializations/cyber-security-business)**, [**Verified Certificate**]()
-+ **[Introduction to Cybersecurity for Business](https://www.coursera.org/learn/intro-cyber-security-business?specialization=cyber-security-business)**, [**Verified Certificate**]()
-+ **[Cyber Threats and Attack Vectors](https://www.coursera.org/learn/cyber-threats-attack-vectors?specialization=cyber-security-business)**, [**Verified Certificate**]()
-+ **[Detecting and Mitigating Cyber Threats and Attacks](https://www.coursera.org/learn/detecting-cyber-attacks?specialization=cyber-security-business)**, [**Verified Certificate**]()
-+ **[Proactive Computer Security](https://www.coursera.org/learn/proactive-computer-security?specialization=cyber-security-business)**, [**Verified Certificate**]()
+**[Mind and Machine Specialization](https://www.coursera.org/specializations/mind-machine)**, [**Verified Certificate**]()
++ **[What is “the mind” and what is artificial intelligence?](https://www.coursera.org/learn/mind-machine-artificial-intelligence?specialization=mind-machine)**, [**Verified Certificate**]()
++ **[Methods for Solving Problems](https://www.coursera.org/learn/mind-machine-problem-solving-methods?specialization=mind-machine)**, [**Verified Certificate**]()
++ **[Computational Vision](https://www.coursera.org/learn/mind-machine-computational-vision?specialization=mind-machine)**, [**Verified Certificate**]()
++ **[Interpersonal, Developmental, and Evolutionary Perspectives of the Mind](https://www.coursera.org/learn/mind-machine-perspectives?specialization=mind-machine)**, [**Verified Certificate**]()
 
 
-**Instructors** : `Dr. Greg Williams`
+**Instructors** : `Dr. David Quigley`
