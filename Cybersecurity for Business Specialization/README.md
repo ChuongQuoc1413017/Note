@@ -1,4 +1,4 @@
-# Cybersecurity for Business
+# Cybersecurity for Business Specialization
 
 **[Cybersecurity for Business Specialization](https://www.coursera.org/specializations/cyber-security-business)**, [**Verified Certificate**]()
 + **[Introduction to Cybersecurity for Business](https://www.coursera.org/learn/intro-cyber-security-business?specialization=cyber-security-business)**, [**Verified Certificate**]()
