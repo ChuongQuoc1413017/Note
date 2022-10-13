@@ -4,7 +4,7 @@
 
 Taught by Dr. `Kristin Sainani`
 
-[**Verified Certificate**]()
+[**Verified Certificate**](https://www.coursera.org/account/accomplishments/certificate/HTJ5EJQ2VZ2F)
 
 ## Syllabus:
 ### [Unit 1: Principle of effective writing](https://github.com/ChuongQuoc1413017/Note/tree/main/Writing%20in%20the%20Sciences/Unit%2001%20-%20Principles%20of%20effective%20writing)
