@@ -1,1 +1,1 @@
-Machine Learnign resourses ant FUNiX
+Machine Learning resourses at FUNiX
