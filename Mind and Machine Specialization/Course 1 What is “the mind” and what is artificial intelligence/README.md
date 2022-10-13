@@ -52,12 +52,12 @@
 + ***Functionalism*** is generally summarized as the notion that mental states are characterized according to their causal roles in a system of mental states. In particular, it doesn't matter in what physical substance these states happen to be embodied. There is a resonance here with the notion of a computer program: it doesn't matter whether that program happens to be rewritten for a Macintosh or Cray or whatever--the essential program remains the same
 
 ### 4. What Makes a Problem Hard
-+ Type 1: From some problems, we hardly know where to begin. They may be impossible for reasons we don't yet know; or perhaps they are not well-defined
++ ***Type 1***: From some problems, we hardly know where to begin. They may be impossible for reasons we don't yet know; or perhaps they are not well-defined
 	+ Examples:
 		+ Write a program that will pass the Turing Test
 		+ Define (and teach) virtue (Plate's Meno)
 		+ Exaplain the meaning of life
-+ Type 2: Some well-defined problems are known to be impossible. These represent intellectual landmarks for human thought
++ ***Type 2***: Some well-defined problems are known to be impossible. These represent intellectual landmarks for human thought
 	+ Examples:
 		+ Using a straightedge and compass, and given an angle theta, cosntruct an angle of magnitude theta/3 
 		+ Write a program which, given any computer program P and nubmer N as input, determines whether P will ever halt when run on input N (Turing)
@@ -71,7 +71,7 @@
 	+ Examples:
 		+ Given a two-dimensional scene projected on a retina or camera plane, deduce the three-dimensional scene (set of objects) that produced this two-dimensional projection
 		+ Given a finite set of sentences, determine the formal structure of a context-free grammar that generated those
-+ ***Some problems--fortunately--are "easy" in the sense that we can write a program to solve them, and the program will typically run in a reasonable time
++ ***Some problems--fortunately--are "easy" in the sense that we can write a program to solve them, and the program will typically run in a reasonable time***
 	+ Examples:
 		+ Given a positive number, find its square root
 		+ Given a context-free grammar G, produce a sentence using that grammar
