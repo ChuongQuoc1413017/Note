@@ -2,7 +2,7 @@
 
 ### Table of contents
 * [1. The Lure and Eeriness of Machine Life](#1-The-Lure-and-Eeriness-of-Machine-Life) 
-* [2. Alan Turing's Test](#2-Alan-Turing's-Test)
+* [2. Alan Turing Test](#2-Alan-Turing-Test)
 * [3. The Computational Metaphor of Mind](#3-The-Computational-Metaphor-of-Mind)
 * [4. What Makes a Problem Hard](#4-What-Makes-a-Problem-Hard)
 
@@ -13,7 +13,7 @@
 	+ Modeling humans as machines (the "computational metaphor of mind" in cognitive science)
 	+ Finding other "middle grounds" between machines and minds
 
-### 2. Alan Turing's Test
+### 2. Alan Turing Test
 + The Turing test (Q: question, A: answer)
 	+ Q: Please write me a sonnet on the subject of the Forth Bridge
 	+ A: Count me out on this one. I never could write poetry
