@@ -4,7 +4,7 @@
 * [1. A New Way to Argue](#1-A-New-Way-to-Argue) 
 * [2. Generalizations](#2-Generalizations)
 * [3. Explanations and Analogies](#3-Explanations-and-Analogies)
-* [4. What Is a Cause](#4-What-Is-a-Cause?)
+* [4. What Is a Cause](#4-What-Is-a-Cause)
 * [5. Necessary and Sufficient Conditions](#5-Necessary-and-Sufficient-Conditions)
 * [6. Causal Confusions](#6-Causal-Confusions)
 * [7. Probability](#7-Probability)
@@ -128,7 +128,7 @@
 		+ D - The analogous objects are more diverse
 		+ E - The conclusion is weaker
 
-### 4. What Is a Cause?
+### 4. What Is a Cause
 + ***Definitions***
 	+ F is a ***SUFFICIENT*** condition for G = ***IN NORMAL CIRCUMSTANCES***
 		+ ***For events:*** Whenever an event F happens, an event G also happens
