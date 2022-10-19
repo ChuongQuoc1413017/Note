@@ -2,7 +2,7 @@
 
 ### Table of contents
 * [1. Vision as a Computational Problem](#1-Vision-as-a-Computational-Problem) 
-* [2. Edge Detection & Depth Perception & Object Recognition](#2-Edge-Detection-&-Depth-Perception-&-Object-Recognition)
+* [2. Edge Detection Depth Perception Object Recognition](#2-Edge-Detection-Depth-Perception-Object-Recognition)
 * [3. The Turn Towards Neuroscience](#3-The-Turn-Towards-Neuroscience)
 * [4. Heuristics and Biases](#4-Heuristics-and-Biases)
 
@@ -13,7 +13,7 @@
 + Illusions can tell us something about the computational side of human vision
 + Let's try to make a first (approximate) statement of the "vision problem"
 
-### 2. Edge Detection & Depth Perception & Object Recognition
+### 2. Edge Detection Depth Perception Object Recognition
 + ***Edge detection***
 	+ As a first step, we'd like to find the edges in an image (the boundaries of the three-dimensional objects that we hope to identify)
 	+ It's hard to identify an object if you can't determine its edges
