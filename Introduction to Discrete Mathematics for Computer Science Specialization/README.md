@@ -6,7 +6,7 @@
 https://www.coursera.org/account/accomplishments/certificate/CPEVMF8DJQDW)
 + **[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics)**, [**Verified Certificate**](https://www.coursera.org/account/accomplishments/certificate/ZGAQVB5978HN)
 + **[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics)** (has been removed on Coursera)
-+ **[Delivery Problem](https://www.coursera.org/learn/delivery-problem)**, [**Verified Certificate**]()
++ **[Delivery Problem](https://www.coursera.org/learn/delivery-problem)**, [**Verified Certificate**](https://www.coursera.org/account/accomplishments/certificate/YMZTGBJZUB38)
 
 
 **Instructors** : `Alexander S. Kulikov`, `Michael Levin` and `Vladimir Podolskii`
