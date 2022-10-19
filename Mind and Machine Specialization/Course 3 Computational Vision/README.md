@@ -2,7 +2,7 @@
 
 ### Table of contents
 * [1. Vision as a Computational Problem](#1-Vision-as-a-Computational-Problem) 
-* [2. Edge Detection & Depth Perception & Object Recognition](#2-Edge-Detection-&-Depth-Perception-&-Object-Recognition)
+* [2. Edge Detection & Depth Perception & Object Recognition](#2-Edge-Detection-&-Depth-Perception-&-Object Recognition)
 * [3. The Turn Towards Neuroscience](#3-The-Turn-Towards-Neuroscience)
 * [4. Heuristics and Biases](#4-Heuristics-and-Biases)
 
