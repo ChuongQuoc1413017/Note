@@ -131,7 +131,7 @@
 		+ After we do this a couple of times, we have multiple condensed pictures, each corresponding to an examination of the original picture for particular features. We now feed this data to a complete feed-forward net that takes, as input, sets of feature maps and outputs responses corresponding to (say) objects of interest
 	+ One particular type of visual convolution filter looks for edges...
 		+ Input Image -> Convolution Kernel -> Feature Map
-+ *** Is Deep Learning the "Sercret" to AI?***
++ ***Is Deep Learning the "Sercret" to AI?***
 
 ***
 
