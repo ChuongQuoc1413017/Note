@@ -1,0 +1,1197 @@
+.center {text-align: center}
+.indent { margin-left: 1em; }
+.centered { margin-left: auto; margin-right: auto; }
+.bigindent { margin-left: 33%; }
+.blockright { display: block; text-align: right; }
+.right { text-align: right; }
+.left { text-align: left !important; }
+.floatright { float: right; }
+.floatclear { clear: both;  }
+.notopmargin { margin-top: 0 !important;}
+.notopmargin ul { margin-top: 0 !important; }
+.nobottommargin { margin-bottom: 0 !important;}
+.nopad { padding:0px; }
+
+.small {font-size: 10pt}
+.xsmall {font-size: 9pt}
+.xxsmall {font-size: 8pt}
+
+.monospace, .fw {
+  font-family: monospace;
+}
+.serif {
+  font-family: serif;
+}
+.sansserif {
+  font-family: sans-serif;
+}
+.scriptuc {
+  font-family: cmsy10, 'Script MT', cursive;
+  line-height: 0px;
+}
+.cn {
+  font-family: "DFKai-SB";
+}
+.capbottom {
+  caption-side:bottom;
+}
+.bggray {
+  background-color:gray;
+}
+.bgltgray {
+  background-color:lightgray;
+}
+
+.rule-below {
+  border-bottom: 1px solid black;
+}
+.rule-above {
+  border-top: 1px solid black;
+}
+
+.ubar {
+  padding-bottom: 0px;
+  border-bottom: 1px solid black;
+}
+
+.overstrike{ position: relative; }
+.overstrike span{ position: absolute; }
+.overstrike .up{ top: -0.5ex; left: 0.2ex; }
+.overstrike .hi{ bottom: 0.5ex; left: 0.5ex; }
+
+.subsup{ position: absolute; }
+.subsup sup{ position: absolute; left: 0.1ex; top: 0.5ex; font-size:75%;}
+.subsup sub{ position: absolute; left: 0.1ex; top: 3ex; font-size:75%; }
+
+.subsupa{ position: absolute; }
+.subsupa sup{ position: relative; display:block; left: 0.1ex; top: .7ex; font-size:75%;}
+.subsupa sub{ position: relative; display:block; left: 0.1ex; top: 3.7ex; font-size:75%; }
+
+p.bibnote {
+  font-size: 85%;
+  text-indent: 0pt;
+  margin-bottom: 0pt; 
+}
+
+.smaller {
+  font-size: 85%;
+}
+.condensed {
+  font-size: 85%;
+  line-height: 1.2em;
+}
+.smallest {
+  font-size: 80%;
+  line-height: normal;
+}
+pre.smaller {
+  font-size:85%;
+}
+
+.wide {
+  width: 100% !important;
+}
+
+.index {
+  font-size:.8em; 
+  line-height: 80%;
+}
+
+.index {
+  font-size:.8em; 
+  line-height: 140%;
+}
+
+html>body .index {
+  font-size: .8em;
+  line-height: 80%;
+}
+
+
+span.supsub { 
+   margin: 0;
+   padding: 0;
+   width: -moz-min-content;
+   width: min-content;
+   vertical-align: text-bottom;
+   display: inline-block;
+   font-size: 75%;
+   text-align: left;
+   position: relative;
+   bottom: -0.3ex;
+   line-height: 80%;
+}
+
+span.lower { 
+    margin: 0;
+    display:block;
+}
+
+/* allows sub and superscripts above and below charaters */
+
+span.mainlimits {
+position: relative;
+	  padding-left: 1px;
+	  font-size: 110%;
+	  text-align: center;
+}
+
+span.suplimits {
+position: absolute;
+	  top: -1em;
+	  left: 0px;
+	  width: 100%;
+	  font-size: 60%;
+/* color: red; */
+	  text-align: center;
+}
+
+.nw {
+    white-space:nowrap;
+}
+
+
+ul.plain {
+/*    list-style-type: none; */
+    list-style: none;
+}   
+ul.dense {
+    margin-bottom: 0.5em !important;
+}
+ul.dense li {
+     margin-top: 0;
+     margin-bottom: 0 !important;
+     padding-top: 0;
+     padding-bottom: 0; 
+}
+ul.hanging {
+     list-style: none;
+     margin: 0;
+     padding-left: 2em;
+}
+
+ul.hanging li {
+    text-indent: -2em;
+}
+
+ul.subhang {
+     list-style-type: disc;
+     list-style-image: none;
+     padding-left: 1em;
+}
+
+ul.subhang li {
+     text-indent: 0em;
+}
+ol.subhang li {
+     text-indent: 0em;
+}
+p.subhang {
+     text-indent: 0em;
+}
+dl.subhang {
+     text-indent: 0em;
+}
+
+ul.flushleft {
+     margin-left: 0;
+     padding-left: 0;
+}
+
+ul.flushleft li {
+     margin-left: 0;
+     padding-left: 0;
+}
+
+ol.connected { 
+     margin-top: 0px;
+     margin-bottom: 0px;
+}
+
+td.lbrak {
+    border: 1px solid black;
+    border-right: none;
+}
+
+td.rbrak {
+    border: 1px solid black;
+    border-left: none;
+}
+
+td.enum {
+    text-align:right;
+    vertical-align:top;
+    width:2.5em;
+}
+
+span.obar {
+    border-top:1px solid black;
+}
+
+.oline {
+    text-decoration:overline;   
+}
+
+span.sc {
+    font-variant:small-caps;
+}
+em.sc {
+    font-style:normal;
+    font-variant:small-caps;
+}
+table th {
+    font-weight:normal;
+}
+
+span.note {
+    color:#808080;
+}
+
+
+
+dl.hangindent {
+    padding: 0em .1em 0em .1em;
+} 
+
+.hangindent dt { 
+    float: left; 
+    clear: left; 
+    width: 2em; 
+    text-align: right; 
+    font-weight: normal ;
+} 
+
+.hangindent dd { 
+    margin: 0 0 0 2.5em; 
+    padding: 0 0 0 0; 
+}
+
+dl.hangindentdense {
+    padding: 0em .1em 0em .1em
+} 
+
+.hangindentdense dt { 
+    float: left; 
+    clear: left; 
+    width: 3em; 
+    text-align: right; 
+    font-weight: normal 
+} 
+
+.hangindentdense dd { 
+    margin: 0 0 0 4em; 
+    padding: 0 0 0 0; 
+}
+
+
+dl.hang {
+    padding: 0em .1em 0em 0em
+}
+
+.hang dt { 
+    float: left; 
+    clear: left; 
+    width: 4em; 
+    text-align: left; 
+    font-weight: normal }
+
+.hang dd { 
+    margin: 0 0 0 4.5em; 
+    padding: 0 0 0 0; 
+}
+
+dl.hang_4em {
+    padding: 0 0 0 0;
+}
+
+.hang_4em dt {
+    float: left;
+    width: 4em;
+    text-align: left;
+    font-weight: normal }
+
+.hang_4em dd {
+    margin: 0 0 0 4em;
+    padding: 0 0 0 0;
+}
+
+dl.hang_6em {
+    padding: 0em .1em 0em 0em
+}
+
+.hang_6em dt {
+    float: left;
+    clear: left;
+    width: 6em;
+    text-align: left;
+    font-weight: normal }
+
+.hang_6em dd {
+    margin: 0 0 0 6em;
+    padding: 0 0 0 0;
+}
+
+dd.secondary {
+margin-top: .75ex;
+text-indent: -2em;
+padding-left: 2em;
+}
+
+.todo_note {
+  color: red;
+}
+.delete {
+  text-decoration: line-through;
+}
+.strikethrough {
+  text-decoration: line-through;
+}
+
+table.smalltable {
+font-size: 9pt;
+line-height: 1.2em;
+}
+
+dl.hang_3em {
+    padding: 0em .1em 0em 0em
+}
+
+.hang_3em dt {
+    float: left;
+    clear: left;
+    width: 3em;
+    text-align: left;
+    font-weight: normal }
+
+.hang_3em dd {
+    margin: 0 0 0 3em;
+    padding: 0 0 0.5em 0;
+}
+
+
+dl.hang_3em {
+    padding: 0em .1em 0em 0em
+}
+
+dl.hang_2em {
+    padding: 0em .1em 0em 0em
+}
+
+.hang_2em dt {
+    float: left;
+    clear: left;
+    width: 2em;
+    text-align: left;
+    font-weight: normal }
+
+.hang_2em dd {
+    margin: 0 0 0 2em;
+    padding: 0 0 0.5em 0;
+}
+
+dl.runon {
+margin: 0px;
+display: inline-block;
+text-indent: -40px;
+padding-left: 40px;
+}
+
+.runon dt {
+display: inline;
+font-weight: bold;
+}
+
+.runon dd {
+display: inline;
+padding-left: .5em;
+margin-left: 0em;
+}
+
+
+
+/* testing for extended math */
+
+span.mmath {
+font-family: "Cambria Math","Asana Math",cmsy10, 'Script MT', cursive;
+}
+
+
+
+h5.runon {
+display: run-in;
+margin-right:.5em;
+}
+
+div.runon {
+font-weight: bold;
+display: run-in;
+margin-right:.5em;
+}
+
+
+table.fraction { text-align: center; vertical-align: middle;
+    margin-top:0.5em; margin-bottom:0.5em; line-height: 2em; }
+table.fraction td {
+text-align: center;
+border-spacing: 0px;
+padding: 0px;
+}
+table.fraction td.denominator { border-top:solid 1px black;line-height:1.4em; }
+table.fraction td.numerator {line-height:1em;}
+
+div.figures {
+  margin: 0 auto;
+  text-align:center;
+}
+div.pad-small div.inner-fig {
+  padding: 0.3em;
+}
+div.pad-med div.inner-fig {
+  padding: 0.5em;
+}
+div.inner-fig {
+  display:inline-block;
+  vertical-align:top;
+}
+div.figures p {
+  font-size: 85%;
+  line-height: 1.2em;
+}
+
+/* ----- Figure Styles ----- */
+div.figure {
+  margin: 0 auto;
+  width: 85%;
+}
+div.figure img.left {
+  margin: 0 0;
+  display: block;
+}
+div.figure img {
+  margin: 0 auto;
+  display: block;
+}
+div.figure img.nocaption {
+  margin-bottom: 10px;
+}
+div.figure table {
+  margin: 0 auto;
+}
+div.figure table.nocaption {
+  margin-bottom: 10px;
+}
+div.figure p {
+  font-size: 85%;
+  line-height: 1.2em;
+}
+span.figlabel {
+  font-variant:small-caps;
+}
+div.figureright {
+  float: right;
+  margin: 0 0 0 10px;
+  width: 30%
+}
+div.figureright img {
+  margin: 0 auto;
+  display: block;
+}
+div.figureright p {
+  text-align: right;
+  font-size: 85%;
+}
+/* ----- Sentence Tags ----- */
+dl.sentag { padding: 0 0 0 0; }
+dl.sentag dl.sentag { margin: 0 0 0 0; } /*nested sentag will stay on same line*/
+dl.sentag > dt { float: left; }
+dl.sentag > dd { padding: 0 0 0 0; }
+dl.tag1em > dt { width: 1em; }
+dl.tag1em > dd { margin: 0 0 0 1em; }
+dl.tag15em > dd { margin: 0 0 0 1.5em; }
+dl.tag15em > dt { width: 1.5em; }
+dl.tag2em > dt { width: 2em; }
+dl.tag2em > dd { margin: 0 0 0 2em; }
+dl.tag3em > dt { width: 3em; }
+dl.tag3em > dd { margin: 0 0 0 3em; }
+dl.tag35em > dt { width: 3.5em; }
+dl.tag35em > dd { margin: 0 0 0 3.5em; }
+dl.tag4em > dt { width: 4em; }
+dl.tag4em > dd { margin: 0 0 0 4em; }
+dl.tag5em > dt { width: 5em; }
+dl.tag5em > dd { margin: 0 0 0 5em; }
+dl.tag6em > dt { width: 6em; }
+dl.tag6em > dd { margin: 0 0 0 6em; }
+dl.tag7em > dt { width: 7em; }
+dl.tag7em > dd { margin: 0 0 0 7em; }
+dl.tag8em > dt { width: 8em; }
+dl.tag8em > dd { margin: 0 0 0 8em; }
+
+dl.tag3em-right > dt { text-align: right; width: 2.5em; }
+dl.tag3em-right > dd { margin: 0 0 0 3em; }
+dl.spaced > dd { margin-bottom: 0.5em; !important }
+
+ul.sentag {
+   display: table;
+   table-layout: fixed;
+   list-style: none;
+   padding-left: 0;
+   width: 100%;
+}
+.sentag li {
+   display: table-row;
+}
+.sentag span.tag, .sentag span.subtag, .sentag span.sen, .sentag span.subsen {
+   display: table-cell;
+   text-align: left;
+   vertical-align: top;
+}
+ul.tag2em span.tag {
+   width: 2em;
+}
+ul.tag3em span.tag {
+   width: 3em;
+}
+ul.tag6em span.tag {
+   width: 6em;
+}
+ul.tag4em span.tag {
+   width: 4em;
+}
+ul.subtag3em span.subtag {
+   width: 3em;
+}
+ul.subtag2em span.subtag {
+   width: 2em;
+}
+ul.subtag15em span.subtag {
+   width: 1.5em;
+}
+ul.subtag08em span.subtag {
+   width: 0.8em;
+}
+
+div.frame {
+  border: 1px solid black;
+}
+
+/* ----- Tabbed Content ----- */
+span.tab-unit {
+ display:inline-block; float:left; }
+span.tab-elem {
+ display:block; margin: 0em; padding: 0em 0.5em; }
+span.tab-clear {
+ display:block; clear: both; }
+
+/* ----- Table Styles ----- */
+/* -- table column spacing -- */
+.fixed {
+  table-layout: fixed;
+}
+.wid10 {
+  width: 10%;
+}
+.wid20 {
+  width: 20%;
+}
+.wid25 {
+  width: 25%;
+}
+.wid33 {
+  width: 33%;
+}
+.wid40 {
+  width: 40%;
+}
+.wid50 {
+  width: 50%;
+}
+.wid75 {
+  width: 75%;
+}
+.wid85 {
+  width: 85%;
+}
+.wide {
+  width: 100%;
+}
+.minwid01 {
+  min-width: 1em;
+}
+.minwid03 {
+  min-width: 3em;
+}
+/* -- table cell padding -- */
+.cellpad-small td, .cellpad-small th {
+  padding: 0.3em;
+}
+.cellpad-small-dense td, .cellpad-small-dense th {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+.cellpad-med td, .cellpad-med th {
+  padding: 0.5em;
+}
+.cellpad-med-dense td, .cellpad-med-dense th {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+.vert-top td, .vert-top th {
+  vertical-align: top;
+}
+.vert-mid td, .vert-mid th {
+  vertical-align: middle;
+}
+.vert-bot td, .vert-bot th {
+  vertical-align: bottom;
+}
+
+/* -- table cell alignment -- */
+.cell-center td, .cell-center th {
+  text-align: center;
+}
+.cell-left td, .cell-left th {
+  text-align: left;
+}
+.cell-right td, .cell-right th {
+  text-align: right;
+}
+
+table.cell-rl {
+  text-align: left;
+}
+table.cell-rl tr th:first-child,
+table.cell-rl tr td:first-child {
+  text-align: right;
+}
+
+/* -- table rules -- */
+/*    options: frame, all-rules, inner-rules, two-rules */
+table.no-rules {
+ border: hidden !important;
+}
+table.no-rules td, table.no-rules th {
+  border-left: hidden !important;
+  border-right: hidden !important;
+}
+table.no-rules tr:first-child td,
+table.no-rules tr:first-child th {
+ border-bottom: hidden !important;
+}
+
+table.frame {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+table.all-rules {
+  border-collapse: collapse;
+}
+table.all-rules td, table.all-rules th {
+  border: 1px solid black;
+}
+
+table.hrules {
+  border-collapse: collapse;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+table.hrules tr:first-child td,
+table.hrules tr:first-child th {
+ border-bottom: 1px solid black;
+}
+table.hrulesTH {
+  border-collapse: collapse;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+table.hrulesTH tr:first-child td {
+  border-top: 1px solid black;
+}
+
+table.two-hrules {
+  border-collapse: collapse;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+table.inner-rules {
+  border-collapse: collapse;
+}
+table.inner-rules td,
+table.inner-rules th {
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+}
+table.inner-rules tr:first-child td, 
+table.inner-rules tr:first-child th {
+  border-top: none;
+}
+table.inner-rules tr th:first-child,
+table.inner-rules tr td:first-child {
+  border-left: none;
+}
+
+table.inner-box {
+  border-collapse: collapse;
+}
+table.inner-box td,
+table.inner-box th {
+  border: 1px solid black;
+}
+table.inner-box tr:first-child td, 
+table.inner-box tr:first-child th {
+  border: none;
+}
+table.inner-box tr th:first-child,
+table.inner-box tr td:first-child {
+  border: none;
+}
+table.inner-boxTH {
+  border-collapse: collapse; 
+}
+table.inner-boxTH tbody td {
+  border: 1px solid black;
+}
+
+table.topbottom-rules {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+table.two-rules {
+  border-collapse: collapse;
+}
+table.two-rules tr:first-child td,
+table.two-rules tr:first-child th {
+  border-bottom: 1px solid black;
+}
+table.two-rules tr th:first-child,
+table.two-rules tr td:first-child {
+  border-right: 1px solid black;
+}
+
+table.two-rulesTH { border-collapse: collapse; } 
+.two-rulesTH thead tr:last-child th { 
+  border-bottom: 1px solid black; 
+} 
+.two-rulesTH colgroup.colhead { 
+  border-right: 1px solid black; 
+} 
+
+table.head-rules {
+  border-collapse: collapse;
+}
+table.head-rules tr:first-child th,
+table.head-rules tr:first-child td {
+  border-top: 1px solid black;
+}
+table.head-rules tr:last-childe td {
+  border-bottom: 1px solid black;
+}
+table.firstcol-rule {
+  border-collapse: collapse;
+}
+table.firstcol-rule tr th:first-child,
+table.firstcol-rule tr td:first-child {
+  border-right: 1px solid black;                                                            
+}
+
+/* -- table captions -- */
+table.shortcap caption {
+  caption-side: bottom;
+  margin: 0 auto;
+  font-size: 85%;
+  font-variant: small-caps;
+}
+
+table.display {
+  border-collapse: collapse;	   
+}
+table.display tr {
+  vertical-align: baseline;
+}
+table.display td.label {
+  width: 4em;
+  text-align: right;
+}
+/* -- special tables -- */
+table.syl { 
+  vertical-align: middle;
+}
+table.syl td {
+  border-spacing: 0px;
+  padding: 0px;
+}
+
+
+/* first used in location-mereology */
+span.block {
+  display:block;  
+/* margin-left: 2em;   float:right; */
+}
+
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+
+.rotate {
+/* Safari */
+-webkit-transform: rotate(-90deg);
+/* Firefox */
+-moz-transform: rotate(-90deg);
+/* IE */
+-ms-transform: rotate(-90deg);
+/* Opera */
+-o-transform: rotate(-90deg);
+/* Internet Explorer */
+filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+.atoir {
+    display: inline-block !important;
+    position: relative !important;
+    bottom: -2px;
+    -moz-transform:rotate(180deg);
+    -webkit-transform:rotate(180deg);
+    -o-transform:rotate(180deg);
+    -ms-transform:rotate(180deg);
+    filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
+}
+.mirror {
+    display: inline-block !important;
+    position: relative !important;
+    -moz-transform:scale(-1,1);
+    -webkit-transform:scale(-1,1);
+    -o-transform:scale(-1,1);
+    -ms-transform:scale(-1,1);
+    transform:scale(-1,1);
+    filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
+}
+
+.normalth th {
+font-weight: 600;
+text-align: center;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+.centercell th {
+text-align: center;
+}
+.centercell td {
+text-align: center;
+}
+
+.leftcell th {
+text-align: left;
+}
+
+.leftcell td {
+text-align: left;
+}
+
+.align-top td, .align-top th {
+  vertical-align: top;
+}
+
+tr.top td {border-top: thin solid black;}
+tr.top th {border-top: thin solid black;}
+
+dl.sepdl dt {
+margin-left: 20pt;
+}
+dl.sepdl dd {
+margin-left: 20pt;
+}
+
+table.operator {
+border-collapse: collapse;
+line-height: 100%;
+}
+
+table.operator td {
+border: 1px solid black;
+padding: 5px;
+vertical-align: top;
+}
+
+table.operator th {
+padding: 5px;
+}
+
+ul.academictools {
+list-style: none;
+padding: 0px;
+margin-left: 1em;
+}
+
+ul.academictools li {
+background-repeat: no-repeat;
+background-position: 0px 0px;
+padding-left: 20px;
+}
+
+li.sepman {
+background-image: url(../../symbols/sepman-icon.jpg);
+}
+
+li.inpho {
+background-image: url(../../symbols/inpho.png);
+}
+
+li.philpapers {
+background-image: url(../../symbols/pp.gif);
+}
+
+
+/*********************************/
+/* NOT FOUND */
+/* (probably not in use) */
+/*********************************/
+
+span.sublimits {
+position: absolute;
+	  bottom: -1em;
+	  left: 0px;
+	  width: 100%;
+	  font-size: 60%;
+/* color: red; */
+	  text-align: center;
+}
+
+/* counter playing */
+
+ol.prime {
+counter-reset: list;
+}
+ol.prime li {
+list-style: none;
+text-indent: -2.5em;
+}
+ol.prime li:before {
+display: inline-block;
+content:  counter(list, lower-roman) "'.";
+counter-increment: list;
+text-align: right;
+padding-right: .5em;
+width: 2em;
+}
+
+/* paul is trying this for parenthesized lower roman */
+
+ol.lowromparens {
+counter-reset: list;
+}
+ol.lowromparens li {
+list-style: none;
+text-indent: -2.0em;
+}
+ol.lowromparens li:before {
+display: inline-block;
+content: "(" counter(list, lower-roman) ")";
+counter-increment: list;
+text-align: right;
+padding-right: .5em;
+width: 2em;
+}
+
+ol.lowromparensprime {
+counter-reset: list;
+}
+ol.lowromparensprime li {
+list-style: none;
+text-indent: -2.5em;
+}
+ol.lowromparensprime li:before {
+display: inline-block;
+content:  "(" counter(list, lower-roman) "'" ")";
+counter-increment: list;
+text-align: right;
+padding-right: .5em;
+width: 2em;
+}
+
+/* emma added */
+
+   ol.lowalphaparens {
+counter-reset: list;
+    }
+
+    ol.lowalphaparens li {
+list-style: none;
+text-indent: -2.0em;
+}
+
+    ol.lowalphaparens li:before {
+counter-increment: list;
+content: "(" counter(list, lower-alpha) ")";
+display: inline-block;
+text-align: right;
+padding-right: .5em;
+width: 2em;
+    }
+
+    ol.arabicparens {
+counter-reset: list;
+    }
+
+    ol.arabicparens li {
+list-style: none;
+text-indent: -2.0em;
+}
+
+    ol.arabicparens li:before {
+content: "(" counter(list, arabic) ")";
+counter-increment: list;
+display: inline-block;
+text-align: right;
+padding-right: .5em;
+width: 2em;
+    }
+
+/** paul is not using handlabel for questions because when one dl is 
+    embedded in another, too much vertical separation results. 
+    2013 Dec 18 this has been fixed, so now using in questions entry.**/
+
+.handlabel {
+    padding: 0em .1em 0em .1em
+}
+.handlabel dt {
+    float: left;
+    clear: left;
+    width: 3em;
+    text-align: right;
+    font-weight: normal
+}
+.handlabel dd {
+    margin: 0 0 0 3.5em;
+    padding: 0 0 0 0;
+}
+
+
+dl.handsublabel {
+    margin: 0 0 0 0;
+    padding: 0em .1em 0em .1em
+}
+.handsublabel dt {
+    float: left;
+    clear: left;
+    width: 2em;
+    text-align: right;
+    font-weight: normal
+}
+.handsublabel dd {
+    margin: 0 0 0 2.5em;
+    padding: 0 0 0 0;
+}
+
+
+span.tabRel {
+display: inline-block;
+margin-right: 1em;
+}
+
+span.tab2em {
+display: inline-block;
+text-align: left;
+width:2em;
+}
+
+.plain {
+font-style: normal;
+}
+
+/* For Chris Menzel */
+body {
+ counter-reset: numbers;
+}
+
+.nobr {
+  white-space: nowrap
+}
+
+table.numbered {
+  margin-left: 2em; line-height: 150%;
+}
+
+td.numbered:before { 
+    counter-increment: numbers;
+    content:  "(" counter(numbers)")";
+}
+
+/** new counters **/
+
+ol.autocount {
+ list-style-type:none;
+}
+
+ol.autocount li.number {
+ counter-reset:letters;
+ counter-increment: numbers;
+ position: relative;
+ margin-left: 0;
+ padding-left: 0;
+}
+
+ol.autocount li.num-let {
+ counter-reset: letters;
+ counter-increment: numbers letters;
+ position: relative;
+ margin-left: 0;
+ padding-left: 0;
+}
+
+ol.autocount li.letter {
+ counter-increment: letters;
+ position: relative;
+ margin-left: 0;
+ padding-left: 0;
+}
+
+ol.autocount li.num-let:before {
+ content: counter(numbers) "\200A(" counter(letters, lower-alpha) ") ";
+ position: absolute;
+ left: -3em;
+ width: 2.8em;
+ text-align: right;
+}
+
+ol.autocount li.number:before {
+ content: "(" counter(numbers) ") ";
+ position: absolute;
+ left: -3em;
+ width: 2.8em;
+ text-align: right;
+}
+
+ol li.letter:before {
+ content: "(" counter(letters, lower-alpha) ") ";
+ position: absolute;
+ left: -3em;
+ width: 2.8em;
+ text-align: right;
+}
+
+/** paul is trying these for questions **/
+
+ol.multiple-choice {
+ list-style:none;
+}
+
+ol.multiple-choice li.question {
+ position: relative;
+ margin-left: 0;
+ padding-left: 0;
+}
+
+ol.multiple-choice li.answer {
+ position: relative;
+ margin-left: 0;
+ padding-left: 0;
+}
+
+.noline span{
+  border-color:white !important;
+}
