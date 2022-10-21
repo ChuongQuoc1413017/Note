@@ -2,9 +2,9 @@
 
 ### Table of contents
 * [1. Week 1 Readings](#1-Week-1-Readings) 
-* [2. Week 2 Readings](#1-Week-2-Readings) 
-* [3. Week 3 Readings](#1-Week-3-Readings) 
-* [4. Week 4 Readings](#1-Week-4-Readings) 
+* [2. Week 2 Readings](#2-Week-2-Readings) 
+* [3. Week 3 Readings](#3-Week-3-Readings) 
+* [4. Week 4 Readings](#4-Week-4-Readings) 
 
 
 ### 1. Week 1 Readings
