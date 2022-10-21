@@ -34,7 +34,7 @@
 		+ Url: https://www.factcheck.org/2017/07/scientific-evidence-eu-court/
 + ***Scientific Empiricism***: three sources of scientific knowledge
 
-+ ****Observation***
++ ***Observation***
 	+ The bedrock of science:
 		+ Observations are public
 		+ Public observation ought to be free
@@ -70,7 +70,7 @@
 	+ Objective scientific knowledge = True knowledge
 	+ Objective scientific process = Unbiased process
 	+ Scientists ***aim*** to discover facts about the world through observation, experiment, and simulation
-		+ ***Facts** are what is actually the case in the world
+		+ ***Facts*** are what is actually the case in the world
 		+ ***Beliefs*** can be about anything. They can be about facts, they can be mistaken, or they can be opinions
 		+ ***True beliefs*** are beliefs about facts. When we grasp the way that the world actually is, then we believe the truth
 		+ => ***Beliefs change***, hopefully moving closer to the truth. But ***the facts remain the facts***
