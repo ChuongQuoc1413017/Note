@@ -125,10 +125,10 @@
 
 ### 5. Embodied Cognition
 + Book: 
-	+ The Extended Mind
-	+ How the body shapes the mind
-	+ Metaphors we live by
-	Andy Clark, Being There
+	+ Richard Menary, The Extended Mind
+	+ Shaun Gallagher, How The Body Shapes The Mind
+	+ George Lakoff, Mark Johnson, Metaphors We Live By
+	+ Andy Clark, Being There
 + Major Themes of Embodied Cognition
 	+ Cognition as interwoven with action
 	+ Cognition as linked to (and constrained by) the parameters of the physical body
