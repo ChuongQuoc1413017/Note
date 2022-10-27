@@ -11,7 +11,7 @@
 
 
 ### 1. Definition of deductive argument:
-+ A ***deductive argument*** is an argument that is persented as valid:
++ A ***deductive argument*** is an argument that is presented as valid:
 + An argument is ***valid*** just in case there is no possible way for its premises to be true when its conclusion is false
 
 ### 2. Deductive Logic
@@ -179,7 +179,7 @@
 			| Some Fs are not Gs | Some Gs are not Fs | Invalid    |	
 
 ### 6. Syllogisms
-+ What is a ****syllogism***?
++ What is a ***syllogism***?
 	+ A syllogism is an argument with 2 premises and a conclusion, where all 3 propositions are of the A, E, I, or O form
 	+ The ***subject term*** of the ***conclusion*** is called the ***subject term of the syllogism***, and one of the premises must also contain that subject term: that premise is the ***"minor premise"***
 	+ The ***predicate term*** of the ***conclusion*** is called the ***predicate term of the syllogism***, and one of the premises must also contain the predicate term: that premise is ***the "major premise"***
