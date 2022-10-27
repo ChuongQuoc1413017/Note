@@ -24,19 +24,19 @@
 	|---------------------------|----------------------------|
 	| valid vs. invalid         | strong vs. weak (invalid)  |
 	| all or nothing            | degrees (vary in strength) |
-	| infefeasible              | defeasible                 |
+	| indefeasible              | defeasible                 |
 
 ### 2. Generalizations
 + ***Generalizations*** from ***samples***
 	+ ***UNIVERSAL:***
-		| ***Universal**                                |
+		| ***Universal***                               |
 		|-----------------------------------------------|
 		| The first F is G.                             |
 		| The second F is G.                            |
 		| The rest of the Fs ***in the sample*** are G. |
 		| >>> ***All*** Fs are G.                       |
 	+ ***PARTIAL:***
-		| ***Partial**                           |
+		| ***Partial***                          |
 		|----------------------------------------|
 		| The first F is G.                      |
 		| The second F is G.                     |
@@ -142,7 +142,7 @@
 		+ Being a whale is ***necessary*** for being a sperm whale
 	+ ***Causal***
 		+ Striking this match is ***sufficient*** for lighting it
-		+ Strikiing this match on a rough surface is ***necessary*** for lighting it
+		+ Striking this match on a rough surface is ***necessary*** for lighting it
 	+ ***Moral***
 		+ Torturing for fun is ***sufficient*** for doing wrong
 		+ Doing something wrong is ***necessary*** for being punishable
