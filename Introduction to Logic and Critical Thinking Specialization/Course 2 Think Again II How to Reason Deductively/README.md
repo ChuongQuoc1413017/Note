@@ -3,7 +3,7 @@
 ### Table of contents
 * [1. Definition of deductive argument](#1-Definition-of-deductive-argument) 
 * [2. Deductive Logic](#2-Deductive-Logic)
-* [3. Conjunctions, Disjunctions and Negation](#3-Conjunctions,-Disjunctions-and-Negation)
+* [3. Conjunctions Disjunctions and Negation](#3-Conjunctions-Disjunctions-and-Negation)
 * [4. Conditionals](#4-Conditionals)
 * [5. Categorical Logic](#5-Categorical-Logic)
 * [6. Syllogisms](#6-Syllogisms)
@@ -31,7 +31,7 @@
 	+ A truth-functional connective is a propositional connective that makes a new proposition whose truth or falsity depends solely on the truth or falsity of its propositional ingredients 
 	+ Some arguments are avlid because of the truth-functional connectives  that they are (in below)
 
-### 3. Conjunctions, Disjunctions and Negation
+### 3. Conjunctions Disjunctions and Negation
 + ***and*** can have different uses, 
 	+ but we only consider ***and*** as a connective
 	+ When "and" is used to express a truth-functional connective, we call that truth-functional connective ***conjunction***
