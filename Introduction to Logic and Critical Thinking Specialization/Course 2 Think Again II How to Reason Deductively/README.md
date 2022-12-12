@@ -3,7 +3,7 @@
 ### Table of contents
 * [1. Definition of deductive argument](#1-Definition-of-deductive-argument) 
 * [2. Deductive Logic](#2-Deductive-Logic)
-* [3. Conjunctions and Disjunctions](#3-Conjunctions-and-Disjunctions)
+* [3. Conjunctions, Disjunctions and Negation](#3-Conjunctions,-Disjunctions-and-Negation)
 * [4. Conditionals](#4-Conditionals)
 * [5. Categorical Logic](#5-Categorical-Logic)
 * [6. Syllogisms](#6-Syllogisms)
